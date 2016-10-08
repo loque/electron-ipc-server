@@ -41,3 +41,12 @@ npm i electron-ipc-server
 * Respond to regular HTTP verbs like GET, POST, PUT and DELETE
 * Broadcast messages (by definition, to all clients)
 * Use an API similar to what Express offers, with middleware, params, query-strings, etc.
+
+## TODO
+- [ ] Method overview in README.md
+- [ ] Add /docs
+- [ ] Add /examples
+
+## License
+
+  [MIT](LICENSE)
