@@ -28,7 +28,7 @@ client.get('/users')
 
 ## Installation
 ```
-npm i electron-ipc-server
+npm i electron-ipc-server --save
 ```
 
 ## Features
