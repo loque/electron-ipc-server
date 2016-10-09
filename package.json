@@ -1,6 +1,6 @@
 {
   "name": "electron-ipc-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/loque/electron-ipc-server.git"
@@ -23,5 +23,4 @@
     "qs": "^6.2.1",
     "uuid": "^2.0.3"
   }
-  
 }
