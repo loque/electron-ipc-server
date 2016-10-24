@@ -1,5 +1,5 @@
-const { createServer } = require('./lib/server/server')
-const { createClient } = require('./lib/client/client')
+const { createServer } = require('./lib/server')
+const { createClient } = require('./lib/client')
 
 module.exports = {
     createServer,
